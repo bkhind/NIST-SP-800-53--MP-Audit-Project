@@ -6,9 +6,9 @@
 As part of my learning experience and taking Simple Cyber course and breaking into GRC, I conducted the following project where we conducted an audit of x company against SP 800-53.
 
 
-|               | NIST 800-53   |
-| ------------- | ------------- |
-| Title         | Content Cell  |
+|  MP             | Baseline   | Baseline   |
+| ------------- | ------------- |------------- |
+| MP-1: Media Protection Policy And Procedures    |Baseline(s): Low, Moderate, High  |The organization: Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]: A media protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and Procedures to facilitate the implementation of the media protection policy and associated media protection controls; and Reviews and updates the current: Media protection policy…
 | Target audience  | Federal agencies and organizations with access to federal information systems  |
 | Purpose and applicability  | Establish controls for systems and organizations that process, store, or transmit information  |
 | Control families  | 20 families of security controls, encompassing a wide range of cybersecurity areas  |
@@ -114,4 +114,79 @@ Detailed findings on areas of compliance and non-compliance. Included:
 
 <h2>Report: </h2>
 
+a.	Purpose: 
 
+This report evaluates the implementation and effectiveness of the SP 800-53 Revision 5 controls related to Media Protection within the organization. The aim is to ensure compliance with federal standards for security and privacy, thereby enhancing overall risk management.
+
+b.	Scope: Media Protection Controls
+
+The scope of this evaluation focuses specifically on Media Protection controls as outlined in SP 800-53 Revision 5, assessing their application, effectiveness, and compliance within the organization.
+
+
+|               | NIST 800-53   |
+| ------------- | ------------- |
+| Title         | Content Cell  |
+
+c.	List of individuals interviewed:
+
+- John Smith, Information Security Officer
+- Jane Doe, Compliance Manager
+- Emily Johnson, IT Systems Administrator
+- Michael Brown, Risk Management Analyst
+
+d.	Results of the audit:
+
+Findings:
+- Strengths:
+  
+Effective policies in place for media handling and disposal.
+
+Regular training sessions for staff on media protection protocols.
+
+-	Weaknesses:
+  
+Inconsistent enforcement of media access controls across departments.
+
+Lack of automated mechanisms for tracking media inventory.
+
+e.	High-level compliance status: 
+
+Overall Compliance: Partially Compliant
+
+Details:
+
+While the organization has established policies, there are gaps in implementation and monitoring, particularly in tracking and managing media.
+
+f.	Link to supporting spreadsheets:
+
+See the excel sheet attached. 
+Appendix A
+
+g.	Provided specific recommendations for compliance improvement, considering budget constraints:
+
+- 	Implement Automated Media Tracking:
+  
+Description: Utilize software solutions to track media usage and access.
+
+Estimated Cost: $5,000 - $10,000 for implementation.
+
+- 	Enhance Staff Training Programs:
+  
+Description: Develop and deliver comprehensive training on media protection measures.
+
+Estimated Cost: $2,000 for materials and facilitation.
+
+- 	Regular Audits and Reviews:
+  
+Description: Schedule quarterly audits to assess compliance with media protection policies.
+
+Estimated Cost: Minimal, primarily internal resources.
+
+- 	Strengthen Access Controls:
+  
+Description: Review and enforce access controls to sensitive media in all departments.
+
+Estimated Cost: $1,500 for policy development and communication.
+
+<h2>Appendices: </h2>
+Appendix A: Copy of SIMPLY CYBER GRC ANALYST WORKBOOK
