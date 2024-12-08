@@ -196,4 +196,4 @@ Description: Review and enforce access controls to sensitive media in all depart
 Estimated Cost: $1,500 for policy development and communication.
 
 <h2>Appendices: </h2>
-Appendix A: Copy of SIMPLY CYBER GRC ANALYST WORKBOOK
+Appendix A: https://docs.google.com/spreadsheets/d/1CSWU_0oTiCLEBGITMfEKgsUiZSZmW0VzFfOXHfCgJwM/edit?usp=sharing
