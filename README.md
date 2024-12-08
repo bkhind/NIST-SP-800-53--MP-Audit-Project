@@ -5,13 +5,12 @@
 <h2>Description</h2>
 As part of my learning experience and taking Simple Cyber course and breaking into GRC, I conducted the following project where we conducted an audit of x company against SP 800-53.
 
-
-|  MP             | Baseline   | Baseline   |
-| ------------- | ------------- |------------- |
-| MP-1: Media Protection Policy And Procedures    |Baseline(s): Low, Moderate, High  |The organization: Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]: A media protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and Procedures to facilitate the implementation of the media protection policy and associated media protection controls; and Reviews and updates the current: Media protection policy…
-| Target audience  | Federal agencies and organizations with access to federal information systems  |
-| Purpose and applicability  | Establish controls for systems and organizations that process, store, or transmit information  |
-| Control families  | 20 families of security controls, encompassing a wide range of cybersecurity areas  |
+|               | NIST 800-53   |
+| ------------- | ------------- |
+| Title         | Security and Privacy Controls for Information Systems and Organizations  |
+| Target audience   | Federal agencies and organizations with access to federal information systems |
+| Purpose and applicability    |Establish controls for systems and organizations that process, store, or transmit information |
+| Control families       | 20 families of security controls, encompassing a wide range of cybersecurity areass |
 
 <br />
 
@@ -122,10 +121,18 @@ b.	Scope: Media Protection Controls
 
 The scope of this evaluation focuses specifically on Media Protection controls as outlined in SP 800-53 Revision 5, assessing their application, effectiveness, and compliance within the organization.
 
+|  MP             | Baseline   | Baseline   |
+| ------------- | ------------- |------------- |
+| MP-1: Media Protection Policy And Procedures    |Baseline(s): Low, Moderate, High  |The organization: Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]: A media protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and Procedures to facilitate the implementation of the media protection policy and associated media protection controls; and Reviews and updates the current: Media protection policy…|
+| MP-2: Media Access | Baseline(s): Low, Moderate, High |The organization restricts access to [Assignment: organization-defined types of digital and/or non-digital media] to [Assignment: organization-defined personnel or roles].|
+| Purpose and applicability  | Establish controls for systems and organizations that process, store, or transmit information  ||
+| MP-3: Media Marking  | 2Baseline(s): Moderate, High  |The organization: Marks information system media indicating the distribution limitations, handling caveats, and applicable security markings (if any) of the information; and Exempts [Assignment: organization-defined types of information system media] from marking as long as the media remain within [Assignment: organization-defined controlled areas].|
+| MP-4: Media Storage | Baseline(s): Moderate, High  |The organization: Physically controls and securely stores [Assignment: organization-defined types of digital and/or non-digital media] within [Assignment: organization-defined controlled areas]; and Protects information system media until the media are destroyed or sanitized using approved equipment, techniques, and procedures.|
+| MP-5: Media Transport | Baseline(s): Moderate, High |The organization: Protects and controls [Assignment: organization-defined types of information system media] during transport outside of controlled areas using [Assignment: organization-defined security safeguards]; Maintains accountability for information system media during transport outside of controlled areas; Documents activities associated with the transport of information system media; and Restricts the activities associated with the transport of information…|
+| MP-6: Media Sanitization | Baseline(s): Low, Moderate, High |The organization: Sanitizes [Assignment: organization-defined information system media] prior to disposal, release out of organizational control, or release for reuse using [Assignment: organization-defined sanitization techniques and procedures] in accordance with applicable federal and organizational standards and policies; and Employs sanitization mechanisms with the strength and integrity commensurate with the security category or classification of the…|
+| MP-7: Media Use | Baseline(s): Low, Moderate, High |The organization [Selection: restricts; prohibits] the use of [Assignment: organization-defined types of information system media] on [Assignment: organization-defined information systems or system components] using [Assignment: organization-defined security safeguards].|
+| MP-8: Media Downgrading | Baseline(s):(Not part of any baseline) |The organization: Establishes [Assignment: organization-defined information system media downgrading process] that includes employing downgrading mechanisms with [Assignment: organization-defined strength and integrity]; Ensures that the information system media downgrading process is commensurate with the security category and/or classification level of the information to be removed and the access authorizations of the potential recipients of the downgraded…|
 
-|               | NIST 800-53   |
-| ------------- | ------------- |
-| Title         | Content Cell  |
 
 c.	List of individuals interviewed:
 
