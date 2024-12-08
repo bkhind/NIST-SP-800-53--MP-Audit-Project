@@ -79,20 +79,29 @@ e.	Post-Audit Reconciliation
 •	Objective: Consolidate and analyze the collected data.
 
 •	Activities:
-	Reviewed all the gathered data to ensure completeness.
-	Organize the data from notebook to the excel sheet. 
-	Discussed findings with the audit team to identify any missed items.
+
+Reviewed all the gathered data to ensure completeness.
+
+Organize the data from notebook to the excel sheet. 
+
+Discussed findings with the audit team to identify any missed items.
+
 f.	Reporting
+
 •	Objective: Compile audit findings into a comprehensive report.
+
 •	Activities:
-	Created an executive summary of the audit.
-	Detailed findings on areas of compliance and non-compliance. Included:
--	Purpose and scope of the audit.
--	List of individuals interviewed.
--	Results of the audit.
--	High-level compliance status.
--	Link to supporting spreadsheets.
--	Provided specific recommendations for compliance improvement, considering budget constraints.
+
+Created an executive summary of the audit.
+
+Detailed findings on areas of compliance and non-compliance. Included:
+
+1.	Purpose and scope of the audit.
+2. 	List of individuals interviewed.
+3. 	Results of the audit.
+4.  High-level compliance status.
+5.  Link to supporting spreadsheets.
+6. Provided specific recommendations for compliance improvement, considering budget constraints.
 
 <h2>Notes:</h2>
 
